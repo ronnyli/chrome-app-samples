@@ -162,7 +162,7 @@ var gh = (function() {
 
   function getUserInfo(interactive) {
     xhrWithAuth('GET',
-                'https://oauth.reddit.com/api/me.json',
+                'https://oauth.reddit.com/api/v1/me',
                 interactive,
                 onUserInfoFetched);
   }
