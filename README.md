@@ -1,4 +1,4 @@
-# Chrome Apps samples
+# Chrome Apps samples committing directly to master OH NOES
 
 Official samples for Chrome Apps platform. If you want to learn about the platform, you can:
 
